@@ -6,6 +6,15 @@ The attached screenshots aim to give a comprehensive picture on the Churn rate f
 
 
 
+
+
+
+
+
+
+
+
+
 The visual below illustrates Churn Rate by Grouped Consumption and Unlimited Data Plan. Unlimited data plan with lesser Grouped Consumption had higher Churn rate. 
 ![3 1 Unlimited Plan](https://github.com/VnumpyZ806/Power-BI-Analytics/assets/93555279/6b2027a9-2ad7-4ba9-b76a-c9d0b571dcd5)
 
